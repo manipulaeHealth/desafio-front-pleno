@@ -4,7 +4,7 @@
 
 <p align="justify">Parabéns por ser selecionado!
 
-Esperamos que tenha um ótimo desempenho no teste e venha junto o time mudar o mercado farmaceutico!
+Esperamos que tenha um ótimo desempenho no teste e venha junto com o time mudar o mercado farmaceutico!
 
 ## O que esperamos? 🤨
 
