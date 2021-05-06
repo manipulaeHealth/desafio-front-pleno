@@ -25,8 +25,6 @@ Esperamos que tenha um ótimo desempenho no teste e venha junto com o time mudar
 - Styled Components (usar a versão native)
 - Axios
 - Code splitting
-- Offline First
-- Client Side Storage
 - PWA
 - Responsividade
 - Testes Unitários
