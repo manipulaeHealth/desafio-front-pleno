@@ -19,13 +19,11 @@ Esperamos que tenha um ótimo desempenho no teste e venha junto com o time mudar
 <br/>
 
 <b>Requisitos que devem constar no projeto são:</b>
-- React Native (for web) (Será um grande diferencial se o código estiver compilando e funcional para Android e IOS)
+- ReactJs ou React Native
 - Next Js (Esperamos o máximo de SSR possível)
 - Redux (e middlewares)
 - Styled Components (usar a versão native)
 - Axios
-- Code splitting
-- PWA
 - Responsividade
 - Testes Unitários
 - Testes de Integração
@@ -38,18 +36,14 @@ Esperamos que tenha um ótimo desempenho no teste e venha junto com o time mudar
 - Usabilidade
 - Estética
 - Performance
-- Técnicas de SEO
 - Clareza do código
 - Gestão do tempo
 - Commits
 <br/>
 
 <b>Diferenciais que podem agradar:</b>
-- Código esteja buildavel para Android e IOS. (pode usar expo)
-- Funcionalidades extras, como por exemplo um Login ou providers para o Google Analytics...
-- Mockup, caso domine alguma ferramenta de prototipação, seria um diferencial ver como foi que 
-pensou para chegar no resultado final do webapp. (Figma, Adobe XD ou Sketch)
-- Se possui, Mostrar seus conhecimentos de UI e explicar como construiu a interface e porque.
+- Code splitting
+- PWA
 <br/>
 
 ## Sobre o desafio 🤯
