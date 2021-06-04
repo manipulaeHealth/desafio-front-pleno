@@ -22,7 +22,7 @@ Esperamos que tenha um ótimo desempenho no teste e venha junto com o time mudar
 - ReactJs ou React Native
 - Next Js (Esperamos o máximo de SSR possível)
 - Redux (e middlewares)
-- Styled Components (usar a versão native)
+- Styled Components
 - Axios
 - Responsividade
 - Testes Unitários
