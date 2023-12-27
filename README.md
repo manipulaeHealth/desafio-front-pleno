@@ -19,7 +19,7 @@ Esperamos que tenha um ótimo desempenho no teste e venha junto com o time mudar
 <br/>
 
 <b>Requisitos que devem constar no projeto são:</b>
-- ReactJs ou React Native
+- ReactJs
 - Next Js (Esperamos o máximo de SSR possível)
 - Redux (e middlewares)
 - Styled Components
